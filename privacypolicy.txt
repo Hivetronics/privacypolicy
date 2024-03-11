@@ -1,6 +1,3 @@
-Certainly! Here's a simple privacy policy for your app that doesn't collect any user data:
-
----
 
 # Privacy Policy for Hivetronics Companion
 
